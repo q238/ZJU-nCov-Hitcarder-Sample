@@ -19,7 +19,7 @@ jobs:
             serverchan_key: SERVERCHAN_KEY
     steps:
       - name: Working
-        uses:  EricFH/ZJU-nCov-Hitcarder@master
+        uses:  q238/qwert@master
         with:
           username: ${{ secrets[matrix.username] }}
           password: ${{ secrets[matrix.password] }}
