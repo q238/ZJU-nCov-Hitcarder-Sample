@@ -1,4 +1,4 @@
-name: 'ZJU-nCov-Hitcarder Action'
+name: 'qwerty'
 
 on:
   workflow_dispatch:
